@@ -11,11 +11,13 @@ Bu proje, JavaScript içinde sınıflar kullanılarak geliştirilmiş bir Migros
 4. Dinamik Arayüz: Kullanıcı etkileşimi ile dinamik olarak güncellenen bir arayüze sahiptir.
 
 ## Kullanılan Teknolojiler
-JavaScript (:rocket:): Uygulamanın temel işlevselliği için kullanılır.
+- JavaScript: Uygulamanın temel işlevselliği için kullanılır.
 
-HTML/CSS: Kullanıcı arayüzünün tasarımı ve düzeni için kullanılır.
+- HTML/CSS: Kullanıcı arayüzünün tasarımı ve düzeni için kullanılır.
 
 ## Nasıl Çalışır?
 Kullanıcıdan Migros kartının olup olmadığına dair bir onay alınır.
+
 Eğer kullanıcı kart sahibiyse, ürünlerin indirimli fiyatları gösterilir.
+
 Uygulama, kullanıcıdan alınan bilgiler ve tanımlanan ürünler ile etkileşimde bulunur.
