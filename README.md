@@ -11,7 +11,7 @@ Bu proje, JavaScript içinde sınıflar kullanılarak geliştirilmiş bir Migros
 4. Dinamik Arayüz: Kullanıcı etkileşimi ile dinamik olarak güncellenen bir arayüze sahiptir.
 
 ## Kullanılan Teknolojiler
-- JavaScript: Uygulamanın temel işlevselliği için kullanılır.
+- JavaScript ![JavaScript](icon-javascript.png): Uygulamanın temel işlevselliği için kullanılır.
 
 - HTML/CSS: Kullanıcı arayüzünün tasarımı ve düzeni için kullanılır.
 
