@@ -18,7 +18,9 @@ Bu proje, JavaScript içinde sınıflar kullanılarak geliştirilmiş bir Migros
 ## Nasıl Çalışır?
 Kullanıcıdan Migros kartının olup olmadığına dair bir onay alınır.
 
-Eğer kullanıcı kart sahibiyse, ürünlerin indirimli fiyatları gösterilir.
+Eğer kullanıcı kart sahibiyse, ürünlerin indirimli fiyatları ile toplam indirimli fiyat gösterilir.
+
+Eğer kullanıcı kart sahibi değilse, ürünlerin indirimsiz fiyatları ve toplam indirimsiz fiyat sunulur.
 
 Uygulama, kullanıcıdan alınan bilgiler ve tanımlanan ürünler ile etkileşimde bulunur.
 
