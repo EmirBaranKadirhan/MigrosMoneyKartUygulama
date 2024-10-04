@@ -32,3 +32,5 @@ Uygulama, kullanıcıdan alınan bilgiler ve tanımlanan ürünler ile etkileşi
 ![UygulamaIciUcuncuResim](img/migrosMoneyKartUygulamaIciResim3.PNG)
 
 ![UygulamaIciDorduncuResim](img/migrosMoneyKartUygulamaIciResim4.PNG)
+
+![UygulamaIciBesinciResim](img/migrosMoneyKartUygulamaIciResim5.PNG)
