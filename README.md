@@ -21,3 +21,12 @@ Kullanıcıdan Migros kartının olup olmadığına dair bir onay alınır.
 Eğer kullanıcı kart sahibiyse, ürünlerin indirimli fiyatları gösterilir.
 
 Uygulama, kullanıcıdan alınan bilgiler ve tanımlanan ürünler ile etkileşimde bulunur.
+
+
+![UygulamaIciBirinciResim](img/migrosMoneyKartUygulamaIciResim1.PNG)
+
+![UygulamaIciİkinciResim](img/migrosMoneyKartUygulamaIciResim2.PNG)
+
+![UygulamaIciUcuncuResim](img/migrosMoneyKartUygulamaIciResim3.PNG)
+
+![UygulamaIciDorduncuResim](img/migrosMoneyKartUygulamaIciResim4.PNG)
